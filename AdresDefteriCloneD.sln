@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdresDefteriCloneD", "AdresDefteriCloneD\AdresDefteriCloneD.csproj", "{EEFA3234-C939-4251-B46F-165889CDEC13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFA3234-C939-4251-B46F-165889CDEC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFA3234-C939-4251-B46F-165889CDEC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFA3234-C939-4251-B46F-165889CDEC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFA3234-C939-4251-B46F-165889CDEC13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0D8D8C-843E-4CA9-BBBD-F0ED20A4FB76}
+	EndGlobalSection
+EndGlobal
